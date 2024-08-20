@@ -9,3 +9,7 @@ Blue
 Violet
 Indigo
 Monkey
+hey 
+im 
+right
+here
